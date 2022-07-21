@@ -1,0 +1,17 @@
+{
+  "header": {
+    "todo-list": "Lista de tareas"
+  },
+
+  "input": {
+    "placeholder": "Crear una tarea..."
+  },
+
+  "main": {
+    "title": "No hay tareas pendientes"
+  },
+
+  "footer": {
+    "task-left": "tareas pendientes"
+  }
+}

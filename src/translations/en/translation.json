@@ -1,0 +1,17 @@
+{
+  "header": {
+    "todo-list": "Todo list"
+  },
+
+  "input": {
+    "placeholder": "Create a task..."
+  },
+
+  "main": {
+    "title": "There are no pending tasks"
+  },
+
+  "footer": {
+    "task-left": "task left"
+  }
+}
